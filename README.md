@@ -1,6 +1,3 @@
-Certainly! Here’s a professional and user-friendly README for the a_random_quote_generator-v1 project, based on the typical structure and content for such a project. You can further customize it as needed.
-
----
 
 # a_random_quote_generator-v1
 
